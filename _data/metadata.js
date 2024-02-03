@@ -1,11 +1,11 @@
 module.exports = {
-	title: "Eleventy Base Blog v8",
-	url: "https://example.com/",
+	title: "Going Onchain",
+	url: "https://goingonchain.netlify.app/",
 	language: "en",
-	description: "I am writing about my experiences as a naval navel-gazer.",
+	description: "Going onchain to degen is the fastest way to learn. Not a maxi, leaning into attention, even if it means going the opposite way.",
 	author: {
-		name: "Your Name Here",
-		email: "youremailaddress@example.com",
-		url: "https://example.com/about-me/"
+		name: "Going Onchain",
+		email: "goingonchain@skiff.com",
+		url: "https://twitter.com/goingonchain"
 	}
 }
